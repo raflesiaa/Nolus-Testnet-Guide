@@ -1,10 +1,13 @@
 ---
 description: Simple installation and Instructions use snapshot
 ---
-API: http://157.230.52.200:43317/
-RPC: http://157.230.52.200:43657/
-gRPC: http://157.230.52.200:40691/
 
+### Public Endpoint
+
+>-API: http://157.230.52.200:43317/
+>-RPC: http://157.230.52.200:43657/
+>-gRPC: http://157.230.52.200:40690/
+>-gRPC Web : http://157.230.52.200:40690/
 # Installation
 
 
