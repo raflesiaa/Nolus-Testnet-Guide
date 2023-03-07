@@ -18,9 +18,6 @@ description: Simple installation and Instructions use snapshot
 wget https://raw.githubusercontent.com/raflesiaa/Nolus-Testnet-Guide/main/autoinstaller.sh && chmod +x rila.sh && ./autoinstaller.sh
 ```
 
----
-description: Catch the latest block faster by using our daily snapshots.
----
 
 # Snapshot
 
