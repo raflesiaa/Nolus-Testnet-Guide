@@ -17,7 +17,7 @@ description: Simple installation and Instructions use snapshot
 ```
 wget https://raw.githubusercontent.com/raflesiaa/Nolus-Testnet-Guide/main/autoinstaller.sh && chmod +x rila.sh && ./autoinstaller.sh
 ```
-_noted: actually the auto installer above already includes a snapshot, but if you have installed nolus and only need a snapshot, I will make a guide below
+**_noted: actually the auto installer above already includes a snapshot, but if you have installed nolus and only need a snapshot, I will make a guide below_**
 
 # Snapshot
 
